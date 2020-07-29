@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title:
 email:
@@ -10,3 +11,6 @@ github_username:
 
 # Build settings
 markdown: kramdown
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 76c3d356787a9db52f4be0a37cad255590788f96

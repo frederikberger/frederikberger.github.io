@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Creative Theme for Jekyll
 
 A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
@@ -12,3 +13,6 @@ See it live in action at <https://volny.github.io/creative-theme-jekyll/>
 - Start by adding your info in `_config.yml`
 - In `_layouts/front.html` reorder or remove section as you prefer.
 
+=======
+# frederikberger.github.io
+>>>>>>> 76c3d356787a9db52f4be0a37cad255590788f96
